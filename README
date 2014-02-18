@@ -1,1 +1,2 @@
-The geo-classifier is a python program which classifies a URL into a "State" or a "City" category.
+The geo-classifier is a python program which classifies a URL into a "State" or a "City" category. The geo-classifier is trained on a set of URLs, making it a supervised learning classifier. 
+
